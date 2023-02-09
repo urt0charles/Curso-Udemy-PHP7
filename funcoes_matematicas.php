@@ -1,11 +1,4 @@
-<html>
 
-<head>
-    <meta charset="UTF-8">
-    <title>Curso PHP</title>
-</head>
-
-<body>
     <?php
     // $num = 7.5;
     // echo ceil($num); //arredonda para cima
@@ -17,6 +10,3 @@
     echo sqrt(9); //raiz quadrada
     
     ?>
-</body>
-
-</html>
